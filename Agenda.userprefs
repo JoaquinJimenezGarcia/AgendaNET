@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{012CE1EF-62EF-4624-AF26-40F94DF64864}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Agenda/App.xaml.cs">
+    <Files>
+      <File FileName="Agenda/Controller/PaginaListaContactos.cs" Line="5" Column="20" />
+      <File FileName="Agenda/packages.config" Line="1" Column="1" />
+      <File FileName="Agenda/Properties/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="Agenda/App.xaml" Line="7" Column="1" />
+      <File FileName="Agenda/App.xaml.cs" Line="13" Column="59" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Agenda.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C92AB089-2F46-40F2-9A66-E91A47FF8DFD">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.Agenda.iOS>
+</Properties>
